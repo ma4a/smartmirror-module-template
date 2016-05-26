@@ -1,0 +1,1 @@
+# smartmirror-module-template
